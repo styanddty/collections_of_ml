@@ -1,7 +1,7 @@
 ---
-# Collections of machine learing 
+# Collections of machine learning 
 ---
-# 1 Cool books of machine learing
+# 1 Cool books of machine learning
 
 # 2 多示例多标记
 
@@ -9,6 +9,6 @@
 
 # 4 趣闻杂谈
 
-# 5 Foundations and trends in machine learing
+# 5 Foundations and trends in machine learning
 
 # 6 Interesting papers
