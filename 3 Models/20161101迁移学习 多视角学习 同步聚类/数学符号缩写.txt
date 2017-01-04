@@ -1,0 +1,5 @@
+1. w.r.t.   ------- with respect to 常用于求导，或者满足一定条件之类的情况
+2. s.t.     ------- subject to  约束于
+3. r.v.     ------- random variable 随机变量
+4. iff      ------- if and only if 当且仅当
+5. i.i.d.   ------- independently and identically distributed 独立同分布

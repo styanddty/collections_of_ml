@@ -1,0 +1,11 @@
+推荐两篇重磅机器学习论文：聚类算法综述 （Data Clustering：A Review）和分类算法综述 （Machine learning: a review of classification)）
+论文《Data Clustering: A Review》摘要：
+Clustering is the unsupervised classification of patterns (observations, data items, or feature vectors) into groups (clusters). The clustering problem has been addressed in many contexts and by researchers in many disciplines; this reflects its broad appeal and usefulness as one of the steps in exploratory data analysis.
+However, clustering is a difficult problem combinatorially, and differences in assumptions and contexts in different communities has made the transfer of useful generic concepts and methodologies slow to occur. This paper presents an overview of pattern clustering methods from a statistical pattern recognition perspective, with a goal of providing useful advice and references to fundamental concepts accessible to the broad community of clustering practitioners. We present a taxonomy of clustering techniques, and identify cross-cutting themes and recent advances. We also describe some important applications of clustering algorithms such as image segmentation, object recognition, and information retrieval.
+链接：
+https://www.cs.rutgers.edu/~mlittman/courses/lightai03/jain99data.pdf
+
+论文《Machine learning: a review of classification and combining techniques》摘要：
+Supervised classification is one of the tasks most frequently carried out by socalled Intelligent Systems. Thus, a large number of techniques have been developed based on Artificial Intelligence (Logic-based techniques, Perceptron-based techniques) and Statistics (Bayesian Networks, Instance-based techniques). The goal of supervised learning is to build a concise model of the distribution of class labels in terms of predictor features. The resulting classifier is then used to assign class labels to the testing instances where the values of the predictor features are known, but the value of the class label is unknown. This paper describes various classification algorithms and the recent attempt for improving classification accuracy—ensembles of classifiers.
+链接：
+http://www.cs.bham.ac.uk/~pxt/IDA/class_rev.pdf
