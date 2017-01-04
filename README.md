@@ -1,5 +1,5 @@
 ---
- title: collections of machine learing 
+# Collections of machine learing 
 ---
 # 1 Cool books of machine learing
 
